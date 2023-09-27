@@ -1,0 +1,15 @@
+<Hallgato>
+<Neptun>
+<Orarend>
+	<Kurzus>
+	</Kurzus>
+	<Idopont>
+		<Kezdes></Kezdes>
+		<Zaras></Zaras>
+	</Idopont>
+	<Oktato></Oktato>
+	<Helyszin></Helyszin>
+
+</Orarend>
+</Neptun>
+</Hallgato>
