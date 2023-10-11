@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JD_kurzusfelvetel tanev="2023/24_1" egyetem="ME">
+<JD_kurzusfelvetel tanev="2023/24_1" egyetem="ME"
+        xml:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <hallgato>
             <hnev>Jobbágy Dániel</hnev>
             <szulev>2001-01-24</szulev>
@@ -24,7 +25,7 @@
                 <oktato>Árvai László Lajos</oktato>
             </kurzus>
 
-            <kurzus id="GEIAL331-B">
+            <kurzus id="GEIAL331-B" jovahagyas="igen">
                 <kurzusnev> Web technológiák 1</kurzusnev>
                 <kredit>5</kredit>
                 <hely>XXX.</hely>
@@ -32,7 +33,7 @@
                 <oktato>Dr. Agárdi Anita</oktato>
             </kurzus>
             
-            <kurzus id="GEIAK120-B">
+            <kurzus id="GEIAK120-B" nyelv="angol">
                 <kurzusnev> Integrált vállalati rendszerek</kurzusnev>
                 <kredit>5</kredit>
                 <hely>218.</hely>
