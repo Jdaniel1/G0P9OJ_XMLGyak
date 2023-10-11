@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JD_kurzusfelvetel tanev="2023/24_1" egyetem="ME">
+        <hallgato>
+            <hnev>Jobbágy Dániel</hnev>
+            <szulev>2001-01-24</szulev>
+            <szak evf="5">Mérnökinformatikus</szak>
+        </hallgato>
+
+        <kurzusok>
+            <kurzus id="GEIAL322-B">
+                <kurzusnev> Adatkezelés XML-ben</kurzusnev>
+                <kredit>5</kredit>
+                <hely>XXXII.</hely>
+                <idopont>Kedd 12:00-13:30</idopont>
+                <oktato>Dr. Bednarik László</oktato>
+            </kurzus>
+
+            <kurzus id="GEIAL336-B">
+                <kurzusnev> Web-es alkalmazások (C#)</kurzusnev>
+                <kredit>5</kredit>
+                <hely>i101.</hely>
+                <idopont>Kedd 14:00-15:30</idopont>
+                <oktato>Árvai László Lajos</oktato>
+            </kurzus>
+
+            <kurzus id="GEIAL331-B">
+                <kurzusnev> Web technológiák 1</kurzusnev>
+                <kredit>5</kredit>
+                <hely>XXX.</hely>
+                <idopont>Hétfő 14:00-17:30</idopont>
+                <oktato>Dr. Agárdi Anita</oktato>
+            </kurzus>
+            
+            <kurzus id="GEIAK120-B">
+                <kurzusnev> Integrált vállalati rendszerek</kurzusnev>
+                <kredit>5</kredit>
+                <hely>218.</hely>
+                <idopont>Szerda 12:00-13:30</idopont>
+                <oktato>Dr. Dadvandipour Samad</oktato>
+            </kurzus>
+            
+            <kurzus id="GEFIT-012-B">
+                <kurzusnev> Fizika II.</kurzusnev>
+                <kredit>4</kredit>
+                <hely>218.</hely>
+                <idopont>Hétfő 8:00-13:30</idopont>
+                <oktato>Dr. Pszota Gábor</oktato>
+            </kurzus>
+        </kurzusok>
+</JD_kurzusfelvetel>
